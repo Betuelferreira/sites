@@ -1,0 +1,52 @@
+@charset "Utf8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+
+}
+
+h1{
+    color: rgb(247, 33, 4);
+    margin: 0%;
+    font-size: 1em ;
+}
+
+img{
+    background-color: black;
+}
+
+a{
+    color: black;
+}
+
+.topnav {
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+  }
+  
+  .topnav img {
+
+    size: 20px;
+
+  }
+
+  .topnav a {
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    width: 30%;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+ 
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(0, 0, 0);
+  }
+  
+ 
